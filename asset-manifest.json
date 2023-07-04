@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.83a7b8a4.css",
-    "main.js": "/react-gh-pages/static/js/main.b2d6215a.js",
-    "static/js/787.1dddf376.chunk.js": "/react-gh-pages/static/js/787.1dddf376.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.83a7b8a4.css.map": "/react-gh-pages/static/css/main.83a7b8a4.css.map",
-    "main.b2d6215a.js.map": "/react-gh-pages/static/js/main.b2d6215a.js.map",
-    "787.1dddf376.chunk.js.map": "/react-gh-pages/static/js/787.1dddf376.chunk.js.map"
+    "main.css": "/f4mt-social-media/static/css/main.83a7b8a4.css",
+    "main.js": "/f4mt-social-media/static/js/main.d6c2ffb3.js",
+    "static/js/787.1dddf376.chunk.js": "/f4mt-social-media/static/js/787.1dddf376.chunk.js",
+    "index.html": "/f4mt-social-media/index.html",
+    "main.83a7b8a4.css.map": "/f4mt-social-media/static/css/main.83a7b8a4.css.map",
+    "main.d6c2ffb3.js.map": "/f4mt-social-media/static/js/main.d6c2ffb3.js.map",
+    "787.1dddf376.chunk.js.map": "/f4mt-social-media/static/js/787.1dddf376.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83a7b8a4.css",
-    "static/js/main.b2d6215a.js"
+    "static/js/main.d6c2ffb3.js"
   ]
 }
